@@ -1,0 +1,16 @@
+.new {
+}
+
+button {
+}
+
+.right {
+}
+
+.banner {
+  padding: 2em 1em;
+  text-align: center;
+  background: var(--bs-red);
+  border-radius: 1em;
+}
+
